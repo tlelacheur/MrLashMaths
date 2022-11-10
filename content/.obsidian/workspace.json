@@ -1,0 +1,145 @@
+{
+  "main": {
+    "id": "bcd020ad0daf672e",
+    "type": "split",
+    "children": [
+      {
+        "id": "6163d8f26187cc8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb86b18e4a597a9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year9/probability/lesson1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea2a422a637b64bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "605d577e07da07c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94c0238e98236196",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35420dcc9cc27411",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5aa54f441d7b2168",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a3a33cbb9fc0618d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e5bb62c558c8496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a16c51286064ed3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "year9/probability/lesson1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39a6b1a9cd3ca013",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "year9/probability/lesson1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "401661c1faababcc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc040835c905ade8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "year9/probability/lesson1.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "bb86b18e4a597a9e",
+  "lastOpenFiles": [
+    "year9/_index.md",
+    "year9/probability/lesson1.md",
+    "year9/probability/_index.md"
+  ]
+}
