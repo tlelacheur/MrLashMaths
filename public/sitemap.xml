@@ -2,16 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://tlelacheur.github.io/categories/</loc>
   </url><url>
-    <loc>http://example.org/year9/probability/lesson1/</loc>
+    <loc>https://tlelacheur.github.io/year9/probability/lesson1/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://tlelacheur.github.io/year9/probability/lesson2/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://tlelacheur.github.io/</loc>
   </url><url>
-    <loc>http://example.org/year9/probability/</loc>
+    <loc>https://tlelacheur.github.io/tags/</loc>
   </url><url>
-    <loc>http://example.org/year9/</loc>
+    <loc>https://tlelacheur.github.io/year9/probability/</loc>
+  </url><url>
+    <loc>https://tlelacheur.github.io/year9/</loc>
   </url>
 </urlset>
