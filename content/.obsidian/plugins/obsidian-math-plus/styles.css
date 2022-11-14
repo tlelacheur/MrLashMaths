@@ -184,11 +184,11 @@
 }
 
 .math-svg-wrapper > svg {
-  height: calc(100% + 500px);
+  height: unset;
   width: unset;
   filter: var(--theme-filter);
-  margin-left: -500px;
-  margin-top: -500px;
+  margin-left: 0px;
+  margin-top: 0px;
 }
 
 .math-svg-wrapper {
