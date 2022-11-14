@@ -13,7 +13,7 @@ $$Pr(\text{X}) = \dfrac{\text{Number of positive outcomes}}{\text{Total outcomes
 $$Pr(\text{not }X)=1-Pr(X)$$
 
   
-##### Examples
+#### Examples
 
 	Example 1:  
 	A letter is randomly chosen from the word AEROPLANE.  
