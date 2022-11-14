@@ -13,7 +13,8 @@
       
       <guid>https://tlelacheur.github.io/year9/probability/lesson1/</guid>
       <description>Probability Review The probability of an event in which all outcomes are equally likely is given by: $$Pr(\text{X}) = \dfrac{\text{Number of positive outcomes}}{\text{Total outcomes}}$$
-For all events $0 &amp;lt;= Pr(X) &amp;lt;= 1$ A sample space is a set of all the possible outcomes The complement of an event $X$ is the probability that it does not occur: $Pr(\text{not }X)=1-Pr(X)$ Examples Example 1: A letter is randomly chosen from the word AEROPLANE.</description>
+For all events $0 &amp;lt;= Pr(X) &amp;lt;= 1$ A sample space is a set of all the possible outcomes The complement of an event $X$ is the probability that it does not occur:
+$Pr(\text{not }X)=1-Pr(X)$ Examples Example 1: A letter is randomly chosen from the word AEROPLANE.</description>
     </item>
     
     <item>
