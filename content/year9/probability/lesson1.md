@@ -9,7 +9,7 @@ draft: false
 $$Pr(\text{X}) = \dfrac{\text{Number of positive outcomes}}{\text{Total outcomes}}$$ 
 * For all events $0 <= Pr(X) <= 1$
 - A sample space is a *set* of all the possible outcomes
-- The complement of an event $X$ is the probability that it does not occur: $1-Pr(X)$
+- The complement of an event $X$ is the probability that it does not occur: $Pr(\text{not }X)=1-Pr(X)$
 
   
 ##### Examples
@@ -48,8 +48,7 @@ $$Pr(\text{X}) = \dfrac{\text{Number of positive outcomes}}{\text{Total outcomes
 
 
 ```
-<br>
-<br>
+
 
   
 Practice: pg 588 Ex 9A Q2, 4-8, 10
