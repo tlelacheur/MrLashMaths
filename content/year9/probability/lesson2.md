@@ -3,18 +3,37 @@ title: "Lesson 2: Venn Digrams"
 draft: false
 ---
 
-### Two-way Tables
-
-
-
 
 ### Venn Diagrams
+A Venn diagram is a way to display the elements of a set. We can used them in probabilty to display the number of outcomes of a particular event especially if there are overlapping outcomes.
+
+For example:
+Display in a Venn Diagram the outcomes of rolling a die for:
+- $Pr(A)$ rolling an event number
+- $Pr(B)$ rolling a prime number
+
+```math
+||{"id":526581189939}||
+
+
+```
 
 
 
+### Two-way Tables
+A two-way table can also be used to display the same data as a two-set Venn Diagram.
+
+For example:
+Display the information above in a two-way table:
+```math
+||{"id":224049988548}||
 
 
-##### Examples 
+```
+
+
+
+#### Examples 
 
 	Example 1:  
 	A survey of 25 people found that 18 people like comedies and 12 like action
@@ -58,9 +77,9 @@ draft: false
 
 
 	Example 2:  
-	Thirty people at a gym are asked about their gym usage. Of these, 18 people attend
-	classes, 19 people use the gym equipment and 8 people attend classes and use the
-	equipment.
+	Thirty people at a gym are asked about their gym usage. Of these, 18
+	people attend	classes, 19 people use the gym equipment and 8 people attend
+	classes and use the equipment.
 	
 	a) Illustrate the situation using a two-way table.
 
