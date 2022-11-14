@@ -7,7 +7,7 @@ draft: false
 ### Venn Diagrams
 A Venn diagram is a way to display the elements of a set. We can used them in probabilty to display the number of outcomes of a particular event especially if there are overlapping outcomes.
 
-For example:
+For example:  
 Display in a Venn Diagram the outcomes of rolling a die for:
 - $Pr(A)$ rolling an event number
 - $Pr(B)$ rolling a prime number
@@ -23,7 +23,7 @@ Display in a Venn Diagram the outcomes of rolling a die for:
 ### Two-way Tables
 A two-way table can also be used to display the same data as a two-set Venn Diagram.
 
-For example:
+For example:  
 Display the information above in a two-way table:
 ```math
 ||{"id":224049988548}||
