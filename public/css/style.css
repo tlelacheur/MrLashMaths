@@ -21,16 +21,19 @@ body {
 
 .site-nav {
   display: flex;
+
 }
 
 .site-nav a {
   display: block;
   padding: 1rem;
+
 }
 
 .site-nav .logo {
   font-weight: bold;
   padding-left: 0;
+
 }
 
 .main-menu {

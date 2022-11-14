@@ -1,6 +1,8 @@
 ---
 title: "Lesson 1: Probability Review"
 draft: false
+practice: "pg 588 Ex 9A Q2, 4-8, 10"
+topic: false
 ---
 ## Probability Review
 
