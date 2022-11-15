@@ -9,7 +9,7 @@ topic: false
 * The probability of an event in which all outcomes are equally likely is given by: 
 
 $$Pr(\text{X}) = \dfrac{\text{Number of positive outcomes}}{\text{Total outcomes}}$$ 
-* For all events $0 <= Pr(X) <= 1$
+* For all events $0 \leq Pr(X) \leq 1$
 - A sample space is a *set* of all the possible outcomes
 - The complement of an event $X$ is the probability that it does not occur:  
 $$Pr(\text{not }X)=1-Pr(X)$$

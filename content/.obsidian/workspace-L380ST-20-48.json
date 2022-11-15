@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "year9/probability/lesson1.md",
+                "file": "year9/probability/lesson2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "year9/probability/lesson1.md",
+                "file": "year9/probability/lesson2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "year9/probability/lesson1.md",
+                "file": "year9/probability/lesson2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "year9/probability/lesson1.md"
+                "file": "year9/probability/lesson2.md"
               }
             }
           }
@@ -138,11 +138,9 @@
   },
   "active": "a760126d82c7ba93",
   "lastOpenFiles": [
-    "year9/probability/lesson3.md",
-    "year9/probability/lesson2.md",
     "year9/probability/lesson1.md",
-    "year9/probability/_index-L380ST-20-48.md",
     "year9/probability/_index.md",
-    "year9/_index.md"
+    "year9/_index.md",
+    "year9/probability/lesson2.md"
   ]
 }
