@@ -52,4 +52,6 @@ $$Pr(\text{X}) = \dfrac{\text{Number of positive outcomes}}{\text{Total outcomes
 ||{"id":1288070745301}||
 ```
 
+
+
 Practice: pg 588 Ex 9A Q2, 4-8, 10
