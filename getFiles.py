@@ -12,7 +12,7 @@ for root, directories, file in os.walk(path):
 
 
 text1='<code class="language-math" data-lang="math">||{&#34;id&#34;:'
-testReplace1='<img src="/images/math/data-'
+testReplace1='<img class="math" src="/images/math/data-'
 text2='}||\n</code>'
 testReplace2 = '.svg" alt="math" />'
 

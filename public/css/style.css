@@ -102,3 +102,7 @@ a {
 pre {
   white-space: pre-wrap;
 }
+
+.math {
+  width: 100vw;
+}
