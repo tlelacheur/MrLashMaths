@@ -49,9 +49,10 @@ $$Pr(\text{X}) = \dfrac{\text{Number of positive outcomes}}{\text{Total outcomes
     e) Pr(a square number)  
 
 ```math
-||{"id":1288070745301}||
-```
+||{"id":1380983848344}||
 
+
+```
 
 
 Practice: pg 588 Ex 9A Q2, 4-8, 10

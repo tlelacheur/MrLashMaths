@@ -1,66 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-
-	<meta charset="UTF-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-	<title>Categories | Mr Lash Maths</title>
-
-	<link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
-
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css">
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js" onload="renderMathInElement(document.body);"></script>
-
-<script>
-	document.addEventListener("DOMContentLoaded", function() {
-		renderMathInElement(document.body, {
-			delimiters: [
-				{left: "$$", right: "$$", display: true},
-				{left: "$", right: "$", display: false}
-			]
-		});
-	});
-	</script>
-
-
-<script>
-	
-	function setTheme(themeName) {
-		localStorage.setItem('theme', themeName);
-		document.documentElement.className = themeName;
-	}
-
-	
-	function toggleTheme() {
-		if (localStorage.getItem('theme') === 'theme-dark') {
-			setTheme('theme-light');
-		} else {
-			setTheme('theme-dark');
-		}
-	}
-
-	
-	(function () {
-		if (localStorage.getItem('theme') === 'theme-dark') {
-			setTheme('theme-dark');
-		} else {
-			setTheme('theme-light');
-		}
-	})();
-</script>
-	
-</head>
-
-<body>
-
-<header class="site-header">
-  <nav class="site-nav">
-    <a class="logo" href="https://tlelacheur.github.io">
-      
-      
-      <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="150.000000pt" height="55.000000pt" viewBox="0 0 150.000000 55.000000"
  preserveAspectRatio="xMidYMid meet">
 
@@ -119,47 +60,3 @@ m78 -63 c0 -12 -28 -25 -36 -17 -9 9 6 27 22 27 8 0 14 -5 14 -10z"/>
 11 -2 11 -17 17 -48 19 -25 2 -49 0 -53 -4z"/>
 </g>
 </svg>
-
-    </a>
-
-
-  </nav>
-  <button id="switch" onclick="toggleTheme()" style="float: right;">Switch</button>
-</header>
-
-
-<main class="content">
-
-<div  class="breadcrumbs">
-    
-  
-  
-  
- 
-   / <a href="https://tlelacheur.github.io/">Mr Lash Maths</a>
- 
-  
-  
- 
-   / <a href="https://tlelacheur.github.io/categories/">Categories</a>
- 
-  
-</div>
-  
-<h1>Categories</h1>
-<hr/>
-
-
-
-
-
-
-</main>
-	
-<footer>
-	<p>&copy; Mr Lash Maths</p>
-</footer>
-
-</body>
-</html>
-

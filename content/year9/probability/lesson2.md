@@ -38,9 +38,7 @@ Display the information above in a two-way table:
 #### Examples 
 
 	Example 1:  
-	A survey of 25 people found that 18 people like comedies and 12 like action
-	movies. Also, 8 people like both comedies and action movies and 3 like neither
-	comedies nor action movies.  
+	A survey of 25 people found that 18 people like comedies and 12 like action movies. Also, 8 people like both comedies and action movies and 3 like neither comedies nor action movies.  
 	
 	a) Construct a Venn diagram for the survey results  
 
@@ -79,9 +77,7 @@ Display the information above in a two-way table:
 
 
 	Example 2:  
-	Thirty people at a gym are asked about their gym usage. Of these, 18
-	people attend classes, 19 people use the gym equipment and 8 people attend
-	classes and use the equipment.
+	Thirty people at a gym are asked about their gym usage. Of these, 18 people attend classes, 19 people use the gym equipment and 8 people attend	classes and use the equipment.
 	
 	a) Illustrate the situation using a two-way table.
 
