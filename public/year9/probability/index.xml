@@ -37,9 +37,10 @@ $Pr(A)$ rolling an event number $Pr(B)$ rolling a prime number ||{&amp;#34;id&am
       <guid>https://tlelacheur.github.io/year9/probability/lesson3/</guid>
       <description>Sets A set is a group of elements, often defined by a rule.
 Sets are defined using curly brackets ${\text{ } }$
-Example 3.1 List these sets: 1. {arrangements of the letters ACT} 2. {mulitples of 4 less than 20} Set Notation The universal set (or sample space) is all the elements for a given problem, $U={0,1,2,3,4,5,6,7,8,9}$
-Set $A$ is then defined from the universal set: $A={0,2,4,6,8}$
-The complement of $A$ is denoted as $A&amp;rsquo;$ .</description>
+Example 3.1 List these sets: 1. {arrangements of the letters ACT} 2. {mulitples of 4 less than 20} ||{&amp;#34;id&amp;#34;:1304824891129}|| Set Notation The universal set (or sample space) is all the elements for a given problem,
+$U=\lbrace 0,1,2,3,4,5,6,7,8,9 \rbrace$
+Set $A$ is then defined from the universal set:
+$A=\lbrace 0,2,4,6,8 \rbrace$</description>
     </item>
     
     <item>
@@ -48,7 +49,7 @@ The complement of $A$ is denoted as $A&amp;rsquo;$ .</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tlelacheur.github.io/year9/probability/lesson4/</guid>
-      <description></description>
+      <description>Practice: pg 607 Ex 9D Q1-6</description>
     </item>
     
     <item>
@@ -66,7 +67,7 @@ The complement of $A$ is denoted as $A&amp;rsquo;$ .</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tlelacheur.github.io/year9/probability/lesson6/</guid>
-      <description></description>
+      <description>Practice: pg 617 Ex 9F Q2-5, 8-11</description>
     </item>
     
   </channel>

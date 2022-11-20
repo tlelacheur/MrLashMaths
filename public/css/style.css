@@ -78,7 +78,7 @@ td, th {
 }
 
 
-tr:hover {background-color: #ddd;}
+tr:hover {background-color:var(--table-hover);}
 
 th {
   padding-top: 12px;
@@ -139,7 +139,7 @@ pre {
   --color-accent: #12cdea;
   --font-color: #ffffff;
   --link-color: #818cff;
-  --table-hover:  #3e3f42;
+  --table-hover:  #252546;
   --ink-color:  rgb(237, 255, 192);
 }
 
