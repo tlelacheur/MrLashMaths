@@ -16,11 +16,11 @@ $$Pr(\text{X}) = \dfrac{\text{Number of positive outcomes}}{\text{Total outcomes
 * For all events $0 \leq Pr(X) \leq 1$
 - A sample space is a *set* of all the possible outcomes
 - The complement of an event $X$ is the probability that it does not occur:  
-  $$Pr(\text{not }X)=1-Pr(X)$$
+  $$Pr(\text{not }X)=Pr(X')=1-Pr(X)$$
 
 #### Examples
 
-    Example 1:  
+    Example 1.1:  
     A letter is randomly chosen from the word AEROPLANE.  
     Find the following probabilities.
     
@@ -38,7 +38,7 @@ $$Pr(\text{X}) = \dfrac{\text{Number of positive outcomes}}{\text{Total outcomes
 ```
 
 
-    Example 2:  
+    Example 1.2:  
     A six-sided die is rolled and the uppermost face is observed and recorded.  
     Find the following probabilities.
     
