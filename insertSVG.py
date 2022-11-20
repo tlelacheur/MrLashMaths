@@ -1,8 +1,8 @@
 import os
 import sys
 import fileinput
-path =r'C:\Users\toby\OneDrive - ivanhoegirls.vic.edu.au\2022\Hugo\MrLashMaths\public'
-pathsvg =r'C:\Users\toby\OneDrive - ivanhoegirls.vic.edu.au\2022\Hugo\MrLashMaths\content\.obsidian\plugins\obsidian-math-plus\drawings'
+path =r'C:\Users\tlelacheur\OneDrive - ivanhoegirls.vic.edu.au\2022\Hugo\MrLashMaths\public'
+pathsvg =r'C:\Users\tlelacheur\OneDrive - ivanhoegirls.vic.edu.au\2022\Hugo\MrLashMaths\content\.obsidian\plugins\obsidian-math-plus\drawings'
 list_of_files = []
 list_of_svg = []
 text1='<code class="language-math" data-lang="math">||{&#34;id&#34;:'
