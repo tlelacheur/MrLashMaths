@@ -1,6 +1,5 @@
 ---
 title: "Lesson 2: Venn Digrams"
-draft: false
 practice: "pg 595 Ex 9B Q2-6, 8-11, 13  Extension: Ex 9B 12, 14"
 topic: false
 ---

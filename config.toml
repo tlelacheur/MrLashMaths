@@ -2,3 +2,7 @@ baseURL = 'https://tlelacheur.github.io'
 languageCode = 'en-us'
 title = 'Mr Lash Maths'
 theme ="starter"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
