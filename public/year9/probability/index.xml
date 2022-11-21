@@ -44,12 +44,14 @@ $A=\lbrace 0,2,4,6,8 \rbrace$</description>
     </item>
     
     <item>
-      <title>Lesson 4: Multiple Events</title>
+      <title>Lesson 4: Two-Step Experiments</title>
       <link>https://tlelacheur.github.io/year9/probability/lesson4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tlelacheur.github.io/year9/probability/lesson4/</guid>
-      <description>Practice: pg 607 Ex 9D Q1-6</description>
+      <description>Using Arrays A 2-dimentional array can be used to display the outcomes of a two-step experiment, such as rolling two dice, selecting two items from a list or flipping a coin twice:
+&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; H T H &amp;nbsp;&amp;nbsp;( H, H )&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;( H, T )&amp;nbsp;&amp;nbsp; T &amp;nbsp;( T, H )&amp;nbsp; &amp;nbsp;( T, T )&amp;nbsp; Experiments can be conducted:
+With replacement (independent events) Without replacement (dependent events) Example 4.1 Two identical counters have a red side (R) and a blue side (B).</description>
     </item>
     
     <item>
@@ -58,7 +60,7 @@ $A=\lbrace 0,2,4,6,8 \rbrace$</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tlelacheur.github.io/year9/probability/lesson5/</guid>
-      <description></description>
+      <description>Tree diagrams are used to list the outcomes for multiple-step experiments and events As for two-step experiments, subsequent trials can be: independent / with replacement (same probability applies) dependent / without replacement (the previous trial determines the probability) Each trial is listed vertically Final outcomes - go along the branches from left to right, multipling probabilities. If many outcomes are required (OR), add the probabilites. For more information see: Probability Tree Diagrams (mathsisfun.</description>
     </item>
     
     <item>
@@ -67,7 +69,10 @@ $A=\lbrace 0,2,4,6,8 \rbrace$</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tlelacheur.github.io/year9/probability/lesson6/</guid>
-      <description>Practice: pg 617 Ex 9F Q2-5, 8-11</description>
+      <description>Relative Frequency The relative frequency (the ratio of positive outcomes of an experiment) can be used to determine the experimental probability of an outcome.
+If the probability of an outcome is unknown, an experiment can be conducted to see often often the desired outcome occurs. As the sample size increases the experimental probability tends towards the theoretical probability.
+$$\text{Relative Frequency}=\dfrac{\text{Positive Outcomes}}{\text{Number of Trials}}$$
+Example 6.1 A weighted die is rolled 200 times, the following outcomes were observed: Number 1 2 3 4 5 6 Freq 18 32 25 29 23 73 Using this data, calculate the: a) Experimental Pr(6) b) Experimental Pr(odd) c) Expected number of 5&amp;#39;s rolled if the die is rolled 50 times.</description>
     </item>
     
   </channel>

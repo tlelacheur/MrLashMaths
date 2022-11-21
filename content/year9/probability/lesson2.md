@@ -17,6 +17,7 @@ Display in a Venn Diagram the outcomes of rolling a die for:
 ```math
 ||{"id":526581189939}||
 ```
+<br>
 
 ### Two-way Tables
 
@@ -28,6 +29,9 @@ Display the information above in a two-way table:
 ```math
 ||{"id":224049988548}||
 ```
+<br>
+
+---
 
 #### Examples
 
@@ -57,6 +61,10 @@ Display the information above in a two-way table:
 ```math
 ||{"id":1241208540428}||
 ```
+
+<br>
+
+
 
     Example 2.2:  
     Thirty people at a gym are asked about their gym usage. Of these, 18 people attend classes, 19 people use the gym equipment and 8 people attend    classes and use the equipment.

@@ -10,7 +10,7 @@ practice: "pg 601 Ex 9C Q1-7, 8-10, 12"
 
 - Sets are defined using curly brackets $\{\text{ } \}$  
   
-
+<br>
 
 ```
 Example 3.1
@@ -28,7 +28,8 @@ List these sets:
 
 ```
 <br>
-<br>
+
+---
 
 ### Set Notation
 
@@ -43,7 +44,7 @@ List these sets:
   $A'=\lbrace 1,3,5,7,9 \rbrace$  
 
 - Set $C$ is a *subset* of $A$ if and only if all elements of $C$ are also *members* of $A$  
-$C=\lbrace 1,3,5\rbrace$  
+$C=\lbrace 2,4,6\rbrace$  
 $\therefore C \subset A$  
   
 - $5\in A$ , means that 5 is a member (or element) of set $A$  
@@ -52,6 +53,7 @@ $\therefore C \subset A$
 
 - $\emptyset$ or $\lbrace \text{ } \rbrace$  denotes a set of zero members, the *empty* or *null* set    
 
+---
 <br>
 <br>
 
@@ -83,10 +85,11 @@ $\therefore C \subset A$
 
 
 
-* Usually the cardinality (size) of each subset demonstrated on a Venn diagram is written inside the corresponding region. 
+* Usually, the cardinality (size) of each subset demonstrated on a Venn diagram is written inside the corresponding region. 
   
   ```math
 ||{"id":1208947025257}||
+
 <br>
 
 ```

@@ -78,9 +78,9 @@ td, th {
 }
 
 
-tr:hover {background-color:var(--table-hover);}
+.topics tr:hover {background-color:var(--table-hover);}
 
-th {
+.topics th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
