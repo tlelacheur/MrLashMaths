@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 360" width="560" height="360">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style>
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <rect x="0" y="0" width="560" height="360" fill="#fff0"></rect><g stroke-linecap="round" transform="translate(10 10) rotate(0 0.5 0.5)"><path d="M-0.06 -0.03 C0.4 -0.08, 0.7 0.04, 0.91 0.03 M0.05 -0.04 C0.42 -0.05, 0.75 0.03, 0.99 0.01 M1.08 -0.06 C1.09 0.27, 1.05 0.48, 1.09 0.92 M0.97 0.01 C0.95 0.33, 0.98 0.72, 1 0.99 M1.03 1.06 C0.65 1.06, 0.49 0.96, -0.03 0.97 M1 1.02 C0.74 0.96, 0.52 1.04, -0.04 0.98 M-0.04 1.01 C0 0.63, -0.06 0.15, 0.05 -0.03 M-0.04 0.95 C-0.04 0.73, -0.03 0.59, -0.05 -0.02" stroke="transparent" stroke-width="0.5" fill="none"></path></g><g stroke-linecap="round"><g transform="translate(171.33632085374558 51.70393115215933) rotate(0 -0.6681604268727881 149.14803442392034)"><path d="M0.08 -0.43 C0.09 49.13, 0.13 248.32, -0.24 298.29 M-1.34 -1.7 C-1.37 47.97, -0.89 249.93, -0.62 299.82" stroke="#000" stroke-width="0.5" fill="none"></path></g></g><g stroke-linecap="round"><g transform="translate(110 110) rotate(0 220 0)"><path d="M-1.16 0.34 C72.37 0.33, 367.21 0.62, 440.92 0.55 M0.44 -0.53 C73.91 -0.95, 367.04 -1.57, 440.46 -1.28" stroke="#000" stroke-width="0.5" fill="none"></path></g></g><g stroke-linecap="round"><g transform="translate(110 230) rotate(0 220 0)"><path d="M0.26 0.52 C73.78 0.47, 367.76 -0.96, 440.88 -1.07 M-1.06 -0.25 C72.4 -0.12, 366.66 -0.31, 440.39 -0.1" stroke="#000" stroke-width="0.5" fill="none"></path></g></g><g stroke-linecap="round"><g transform="translate(371.00366453528403 49.65904755675231) rotate(0 -0.5018322676420155 150.17047622162386)"><path d="M-1 0.91 C-1.09 50.73, -1.17 249.92, -0.98 299.95 M0.67 0.34 C0.47 50.85, -1.8 251.48, -1.91 301.28" stroke="#000" stroke-width="0.5" fill="none"></path></g></g><g stroke-linecap="round"><g transform="translate(550 110) rotate(0 0 120)"><path d="M-0.37 -0.78 C-0.09 39.11, 0.91 199.29, 0.93 239.27 M1.63 1.43 C1.9 41.46, 0.93 200.67, 0.47 240.43" stroke="#000" stroke-width="0.5" fill="none"></path></g></g><g stroke-linecap="round"><g transform="translate(170 350) rotate(0 190 0)"><path d="M-0.33 -0.99 C62.93 -1.16, 315.51 -0.06, 378.97 0.21 M1.7 1.1 C65.38 1.05, 318.12 -1.38, 381.14 -1.8" stroke="#000" stroke-width="0.5" fill="none"></path></g></g></svg>

@@ -8,7 +8,7 @@ practice: "pg 617 Ex 9F Q2-5, 8-11"
 
 The relative frequency (the ratio of positive outcomes of an experiment) can be used to determine the experimental probability of an outcome. 
 
-If the probability of an outcome is unknown, an experiment can be conducted to see often often the desired outcome occurs. As the *sample size* increases the *experimental* probability *tends* towards the *theoretical* probability.
+If the probability of an outcome is unknown, an experiment can be conducted to see how often the desired outcome occurs. As the *sample size* increases the *experimental* probability *tends* towards the *theoretical* probability.
 
 $$\text{Relative Frequency}=\dfrac{\text{Positive Outcomes}}{\text{Number of Trials}}$$
 
