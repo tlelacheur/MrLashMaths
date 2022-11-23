@@ -151,12 +151,19 @@ pre {
   border-radius: 5px;
 }
 
-
-svg g{ 
+.logo g{ 
   fill:var(--font-color);
+}
+
+#nofill { 
+  fill: none;
 }
 
 .math path{ 
   fill: var(--ink-color);
+  stroke: var(--ink-color);
+  stroke-width: 1;
 }
+
+
 

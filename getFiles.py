@@ -16,6 +16,8 @@ testReplace1='<img class="math" src="/images/math/data-'
 text2='}||\n</code>'
 testReplace2 = '.svg" alt="math" />'
 
+text3='fill="none"'
+testReplace3 = 'fill="none" class="nofill"'
 
 for name in list_of_files:
     replace=False
@@ -25,6 +27,7 @@ for name in list_of_files:
         replace=True
         lines = lines.replace(text1, testReplace1)
         lines = lines.replace(text2, testReplace2)
+	lines = lines.replace(text3, testReplace3)
     f.close()
 
     if replace:

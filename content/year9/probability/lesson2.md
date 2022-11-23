@@ -3,10 +3,11 @@ title: "Lesson 2: Venn Digrams"
 practice: "pg 595 Ex 9B Q2-6, 8-11, 13  Extension: Ex 9B 12, 14"
 topic: false
 ---
+Video link: [Venn Diagrams](https://ivanhoegirlsviceduau.sharepoint.com/:v:/s/LashPrivate/EXe9CCWcwsxIg1Itt61hiAoBHrJSCl2mbBHvD3gji_WfUg?e=1peB7k)  
 
 ### Venn Diagrams
 
-A Venn diagram is a way to display the elements of a set. We can used them in probabilty to display the number of outcomes of a particular event especially if there are overlapping outcomes.
+A Venn diagram is a way to display the elements of a set. In probabilty, they are used to display the outcomes of a particular event; especially useful if there are overlapping outcomes.
 
 For example:  
 Display in a Venn Diagram the outcomes of rolling a die for:
@@ -21,7 +22,7 @@ Display in a Venn Diagram the outcomes of rolling a die for:
 
 ### Two-way Tables
 
-A two-way table can also be used to display the same data as a two-set Venn Diagram.
+A two-way table can be used to display the same information as a two-set Venn Diagram.
 
 For example:  
 Display the information above in a two-way table:
@@ -92,3 +93,4 @@ Display the information above in a two-way table:
 ||{"id":936848676284}||
 ```
 
+Practice: pg 595 Ex 9B Q2-6, 8-11, 13;  Extension: Ex 9B 12, 14

@@ -23,10 +23,11 @@ $$Pr(\text{not }X)=Pr(X&amp;rsquo;)=1-Pr(X)$$ Examples Example 1.1: A letter is 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tlelacheur.github.io/year9/probability/lesson2/</guid>
-      <description>Venn Diagrams A Venn diagram is a way to display the elements of a set. We can used them in probabilty to display the number of outcomes of a particular event especially if there are overlapping outcomes.
+      <description>Video link: Venn Diagrams
+Venn Diagrams A Venn diagram is a way to display the elements of a set. In probabilty, they are used to display the outcomes of a particular event; especially useful if there are overlapping outcomes.
 For example:
 Display in a Venn Diagram the outcomes of rolling a die for:
-$Pr(A)$ rolling an event number $Pr(B)$ rolling a prime number ||{&amp;#34;id&amp;#34;:526581189939}|| Two-way Tables A two-way table can also be used to display the same data as a two-set Venn Diagram.</description>
+$Pr(A)$ rolling an event number $Pr(B)$ rolling a prime number ||{&amp;#34;id&amp;#34;:526581189939}|| Two-way Tables A two-way table can be used to display the same information as a two-set Venn Diagram.</description>
     </item>
     
     <item>
@@ -70,7 +71,7 @@ With replacement (independent events) Without replacement (dependent events) Exa
       
       <guid>https://tlelacheur.github.io/year9/probability/lesson6/</guid>
       <description>Relative Frequency The relative frequency (the ratio of positive outcomes of an experiment) can be used to determine the experimental probability of an outcome.
-If the probability of an outcome is unknown, an experiment can be conducted to see often often the desired outcome occurs. As the sample size increases the experimental probability tends towards the theoretical probability.
+If the probability of an outcome is unknown, an experiment can be conducted to see how often the desired outcome occurs. As the sample size increases the experimental probability tends towards the theoretical probability.
 $$\text{Relative Frequency}=\dfrac{\text{Positive Outcomes}}{\text{Number of Trials}}$$
 Example 6.1 A weighted die is rolled 200 times, the following outcomes were observed: Number 1 2 3 4 5 6 Freq 18 32 25 29 23 73 Using this data, calculate the: a) Experimental Pr(6) b) Experimental Pr(odd) c) Expected number of 5&amp;#39;s rolled if the die is rolled 50 times.</description>
     </item>
