@@ -1,5 +1,5 @@
 ---
-title: "Lesson 6: Experimental Probability"
+title: "Lesson 5: Experimental Probability"
 topic: false
 practice: "pg 617 Ex 9F Q2-5, 8-11"
 ---
@@ -50,6 +50,7 @@ Using this data, calculate the:
     b) Experimental Pr(odd)
     c) Expected number of 5's rolled if the die is rolled 50 times. 
 ```
+
 
 ```math
 ||{"id":877335971368}||

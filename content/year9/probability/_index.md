@@ -4,8 +4,10 @@ draft: false
 topic: true
 ---
 
-### Outline 
+### Outline
+
 Here is the outline for the Probability topic:  
+
 <!-- 
 |Lesson|Content|Work to be completed|
 |--|------|------------------------------------------------|
@@ -15,5 +17,3 @@ Here is the outline for the Probability topic:
 |4|Multiple events using tables|pg 607 Ex 9D Q1-6|
 |5|Tree Diagrams|Worksheet|
 |6|Experimental Probability|pg 617 Ex 9F Q2-5, 8-11| -->
-
-

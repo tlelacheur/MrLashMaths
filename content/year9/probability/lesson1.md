@@ -4,7 +4,7 @@ practice: "pg 588 Ex 9A Q2, 4-8, 10"
 topic: false
 ---
 
-## Probability Review
+### Probability Review
 
 * The probability of an event in which all outcomes are equally likely is given by: 
 

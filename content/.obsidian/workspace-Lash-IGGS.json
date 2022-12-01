@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "bcd020ad0daf672e",
+    "type": "split",
+    "children": [
+      {
+        "id": "290c32d6e1298501",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1435bc9972c7a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "year9/probability/lesson2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea2a422a637b64bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "605d577e07da07c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94c0238e98236196",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35420dcc9cc27411",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5aa54f441d7b2168",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a3a33cbb9fc0618d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e5bb62c558c8496",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a16c51286064ed3d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "year9/probability/lesson2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39a6b1a9cd3ca013",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "year9/probability/lesson2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "401661c1faababcc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc040835c905ade8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "year9/probability/lesson2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f1435bc9972c7a3d",
+  "lastOpenFiles": [
+    "year9/probability/lesson2.md",
+    "year9/probability/Drawing 2022-11-22 14.24.12.excalidraw.md",
+    "year9/probability/lesson3.md",
+    "year9/probability/lesson4.md",
+    "year9/probability/lesson6.md",
+    "year9/probability/lesson5.md",
+    "year9/probability/lesson1.md",
+    "Excalidraw/lesson1 2022-11-16 14.14.59.excalidraw.md",
+    "year9/probability/Untitled Diagram.svg",
+    "year9/probability/_index-L380ST-20-48.md"
+  ]
+}

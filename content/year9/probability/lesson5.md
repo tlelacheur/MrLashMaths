@@ -1,15 +1,15 @@
 ---
-title: "Lesson 5: Tree Diagrams"
+title: "Lesson 4: Tree Diagrams"
 topic: false
 practice: "Worksheet"
 ---
 
 - Tree diagrams are used to list the outcomes for multiple-step experiments and events
-- As for two-step experiments, subsequent trials can be:
+- Subsequent trials can be:
   - independent / with replacement (same probability applies)
   - dependent / without replacement (the previous trial determines the probability)
 - Each trial is listed vertically
-- Final outcomes - go along the branches from left to right, multipling probabilities.
+- To calculate final outcomes - go along the branches from left to right, multipling probabilities.
 - If many outcomes are required (OR), add the probabilites.
 
 <br>
@@ -50,4 +50,4 @@ What is the probability that:
 ||{"id":342302124099}||
 ```
 
-Practice: [Probability Tree Worksheet](https://ivanhoegirlsviceduau-my.sharepoint.com/:b:/g/personal/tlelacheur_ivanhoegirls_vic_edu_au/EaAxLlZTOptKlDhm3IJJmvkBzQfRbM0JTrJDetNMoZC-gg?e=6nUMCf)
+Practice:[Probability Tree Worksheet](https://ivanhoegirlsviceduau-my.sharepoint.com/:b:/g/personal/tlelacheur_ivanhoegirls_vic_edu_au/EXmmOac44gFFvrwE3RDGge4BmSSsHXhNYuqhErTiprePmg?e=mJ1hxn)

@@ -1,6 +1,15 @@
 import os
 import sys
 import fileinput
+import re
+
+def use_regex(input_text):
+    result = re.sub(r'viewBox="0 0 [0-9]*\.[0-9]+', 'viewBox="0 0 700', input_text)
+    result = re.sub(r'viewBox="0 0 [0-9]+', 'viewBox="0 0 700', result)
+    return(result)
+
+
+
 path =r'C:\Users\tlelacheur\OneDrive - ivanhoegirls.vic.edu.au\2022\Hugo\MrLashMaths\public'
 pathsvg =r'C:\Users\tlelacheur\OneDrive - ivanhoegirls.vic.edu.au\2022\Hugo\MrLashMaths\content\.obsidian\plugins\obsidian-math-plus\drawings'
 list_of_files = []
@@ -34,6 +43,7 @@ for svgfile in list_of_svg:
             svgf = open(svgfile)
             svglines=svgf.read()
             svglines=svglines.replace('svg version="1.1"','svg version="1.1" class="math"')
+            svglines=(use_regex(svglines))
             svglines=svglines.replace('fill="none"','fill="none" id="nofill"')
             lines = lines.replace(res, svglines)
             svgf.close()

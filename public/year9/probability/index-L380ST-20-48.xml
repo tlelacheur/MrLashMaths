@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Topic 10: Probability on Mr Lash Maths</title>
+    <link>https://tlelacheur.github.io/year9/probability/</link>
+    <description>Recent content in Topic 10: Probability on Mr Lash Maths</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://tlelacheur.github.io/year9/probability/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lesson 1: Probability Review</title>
+      <link>https://tlelacheur.github.io/year9/probability/lesson1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tlelacheur.github.io/year9/probability/lesson1/</guid>
+      <description>Probability Review The probability of an event in which all outcomes are equally likely is given by: $$Pr(\text{X}) = \dfrac{\text{Number of positive outcomes}}{\text{Total outcomes}}$$
+For all events $0 \leq Pr(X) \leq 1$ A sample space is a set of all the possible outcomes The complement of an event $X$ is the probability that it does not occur:
+$$Pr(\text{not }X)=Pr(X&amp;rsquo;)=1-Pr(X)$$ Examples Example 1.1: A letter is randomly chosen from the word AEROPLANE.</description>
+    </item>
+    
+    <item>
+      <title>Lesson 2: Venn Digrams</title>
+      <link>https://tlelacheur.github.io/year9/probability/lesson2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tlelacheur.github.io/year9/probability/lesson2/</guid>
+      <description>Video link: Venn Diagrams
+Venn Diagrams A Venn diagram is a way to display the elements of a set. We can used them in probabilty to display the number of outcomes of a particular event especially if there are overlapping outcomes.
+For example:
+Display in a Venn Diagram the outcomes of rolling a die for:
+$Pr(A)$ rolling an event number $Pr(B)$ rolling a prime number ||{&amp;#34;id&amp;#34;:526581189939}|| Two-way Tables A two-way table can also be used to display the same data as a two-set Venn Diagram.</description>
+    </item>
+    
+    <item>
+      <title>Lesson 3: Set Notation</title>
+      <link>https://tlelacheur.github.io/year9/probability/lesson3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tlelacheur.github.io/year9/probability/lesson3/</guid>
+      <description>Sets A set is a group of elements, often defined by a rule.
+Sets are defined using curly brackets ${\text{ } }$
+Example 3.1 List these sets: 1. {arrangements of the letters ACT} 2. {mulitples of 4 less than 20} ||{&amp;#34;id&amp;#34;:1304824891129}|| Set Notation The universal set (or sample space) is all the elements for a given problem,
+$U=\lbrace 0,1,2,3,4,5,6,7,8,9 \rbrace$
+Set $A$ is then defined from the universal set:
+$A=\lbrace 0,2,4,6,8 \rbrace$</description>
+    </item>
+    
+    <item>
+      <title>Lesson 4: Two-Step Experiments</title>
+      <link>https://tlelacheur.github.io/year9/probability/lesson4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tlelacheur.github.io/year9/probability/lesson4/</guid>
+      <description>Using Arrays A 2-dimentional array can be used to display the outcomes of a two-step experiment, such as rolling two dice, selecting two items from a list or flipping a coin twice:
+&amp;nbsp; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; H T H &amp;nbsp;&amp;nbsp;( H, H )&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp;( H, T )&amp;nbsp;&amp;nbsp; T &amp;nbsp;( T, H )&amp;nbsp; &amp;nbsp;( T, T )&amp;nbsp; Experiments can be conducted:
+With replacement (independent events) Without replacement (dependent events) Example 4.1 Two identical counters have a red side (R) and a blue side (B).</description>
+    </item>
+    
+    <item>
+      <title>Lesson 5: Tree Diagrams</title>
+      <link>https://tlelacheur.github.io/year9/probability/lesson5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tlelacheur.github.io/year9/probability/lesson5/</guid>
+      <description>Tree diagrams are used to list the outcomes for multiple-step experiments and events As for two-step experiments, subsequent trials can be: independent / with replacement (same probability applies) dependent / without replacement (the previous trial determines the probability) Each trial is listed vertically Final outcomes - go along the branches from left to right, multipling probabilities. If many outcomes are required (OR), add the probabilites. For more information see: Probability Tree Diagrams (mathsisfun.</description>
+    </item>
+    
+    <item>
+      <title>Lesson 6: Experimental Probability</title>
+      <link>https://tlelacheur.github.io/year9/probability/lesson6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tlelacheur.github.io/year9/probability/lesson6/</guid>
+      <description>Relative Frequency The relative frequency (the ratio of positive outcomes of an experiment) can be used to determine the experimental probability of an outcome.
+If the probability of an outcome is unknown, an experiment can be conducted to see how often the desired outcome occurs. As the sample size increases the experimental probability tends towards the theoretical probability.
+$$\text{Relative Frequency}=\dfrac{\text{Positive Outcomes}}{\text{Number of Trials}}$$
+Example 6.1 A weighted die is rolled 200 times, the following outcomes were observed: Number 1 2 3 4 5 6 Freq 18 32 25 29 23 73 Using this data, calculate the: a) Experimental Pr(6) b) Experimental Pr(odd) c) Expected number of 5&amp;#39;s rolled if the die is rolled 50 times.</description>
+    </item>
+    
+  </channel>
+</rss>

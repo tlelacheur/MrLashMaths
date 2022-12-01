@@ -34,20 +34,20 @@ List these sets:
 ### Set Notation
 
 - The universal set (or sample space) is all the elements for a given problem,  
- $U=\lbrace 0,1,2,3,4,5,6,7,8,9 \rbrace$  
+ $U=\mathscr{E}=\lbrace 0,1,2,3,4,5,6,7,8,9 \rbrace$  
   
    
 - Set $A$ is then defined from the universal set:  
   $A=\lbrace 0,2,4,6,8 \rbrace$  
    
-- The *complement* of $A$ is denoted as $A'$ . This is everything *not* in $A$  
+- The *complement* of $A$ is denoted as $A'$ . This is everything *not* in $A$ : 
   $A'=\lbrace 1,3,5,7,9 \rbrace$  
 
-- Set $C$ is a *subset* of $A$ if and only if all elements of $C$ are also *members* of $A$  
-$C=\lbrace 2,4,6\rbrace$  
-$\therefore C \subset A$  
+- Set $C$ is a *subset* of $A$ if and only if all elements of $C$ are also *members* of $A$ :
+	$C=\lbrace 2,4,6\rbrace$  
+	$\therefore C \subset A$  
   
-- $5\in A$ , means that 5 is a member (or element) of set $A$  
+- $6\in A$ , means that 6 is a member (or element) of set $A$  
 
 - $n(A)$ , is the number of members of $A$, in this case $n(A)=5$  
 
@@ -87,10 +87,12 @@ $\therefore C \subset A$
 
 * Usually, the cardinality (size) of each subset demonstrated on a Venn diagram is written inside the corresponding region. 
   
-  ```math
+```math
 ||{"id":1208947025257}||
 
-<br>
+
+```
+
 
 ```
 Example 3.2
@@ -101,15 +103,15 @@ Set B is defined as the set of prime numbers
     a) List the sets
     b) Draw a Venn Digram
     c) List these sets:
-        i)    A ∩ B
-        ii)   A ∪ B
+        i)    A∩B
+        ii)   A∪B
         iii)  A'
-        iv)   B only   (A' ∩ B)
+        iv)   B only   (A'∩B)
     d) Find:
         i)    n(A)
         ii)   Pr(A)
-        iii)  n(A ∩ B)
-        iv)   Pr(A ∪ B)
+        iii)  n(A∩B)
+        iv)   Pr(A∪B)
 ```
 
 ```math
